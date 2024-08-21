@@ -10,7 +10,7 @@ import test_app
 dataset_name = 'UCSD_Ped2'
 test_video_dir = "C:/Users/hp/Documents/Thesis/Abnormal_Event_Detection-master/Abnormal_Event_Detection-master/output/"
 model_dir = ("C:/Users/hp/Documents/Thesis/Abnormal_Event_Detection-master/Abnormal_Event_Detection-master"
-             "/Abnormal_Event_Detection-master/output/AnomalyDetector_UCSD_Ped2_tds.h5")
+             "/Abnormal_Event_Detection/output/AnomalyDetector_UCSD_Ped2_tds.h5")
 
 
 # Convert video files to mp4 format
